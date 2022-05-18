@@ -1,4 +1,4 @@
-package com.java.oop.logic;
+package com.spring.oop.logic;
 
 import java.util.List;
 

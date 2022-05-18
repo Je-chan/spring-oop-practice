@@ -1,8 +1,6 @@
-package com.java.oop;
+package com.spring.oop;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class MainTest {
 
